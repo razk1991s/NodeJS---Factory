@@ -1,0 +1,121 @@
+[
+  {
+    "_id": "67c3520e453225e3c15f0698",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Leanne Graham",
+    "ActionAllowed": 4,
+    "MaxActions": 5
+  },
+  {
+    "_id": "67c3520e453225e3c15f0697",
+    "Date": "Mon Mar 03 2025",
+    "FullName": "Yosef Avraham",
+    "ActionAllowed": 12,
+    "MaxActions": 10
+  },
+  {
+    "_id": "67c3520e453225e3c15f0699",
+    "Date": "Sat Mar 01 2025  ",
+    "FullName": "Ervin Howell",
+    "ActionAllowed": 3,
+    "MaxActions": 6
+  },
+  {
+    "_id": "67c3520e453225e3c15f069c",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Chelsey Dietrich",
+    "ActionAllowed": 8,
+    "MaxActions": 9
+  },
+  {
+    "_id": "67c3520e453225e3c15f069d",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Mrs. Dennis",
+    "ActionAllowed": 2,
+    "MaxActions": 7
+  },
+  {
+    "_id": "67c3520e453225e3c15f069e",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Kurtis Weissnat",
+    "ActionAllowed": 4,
+    "MaxActions": 6
+  },
+  {
+    "_id": "67c3520e453225e3c15f069a",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Clementine Bauch",
+    "ActionAllowed": 6,
+    "MaxActions": 7
+  },
+  {
+    "_id": "67c3520e453225e3c15f06a0",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Glenna Reichert",
+    "ActionAllowed": 2,
+    "MaxActions": 8
+  },
+  {
+    "_id": "67c3520e453225e3c15f06a1",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Clementina DuBuque",
+    "ActionAllowed": 5,
+    "MaxActions": 8
+  },
+  {
+    "_id": "67c3520e453225e3c15f069b",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Patricia Lebsack",
+    "ActionAllowed": 6,
+    "MaxActions": 8
+  },
+  {
+    "_id": "67c3520e453225e3c15f069f",
+    "Date": "Sat Mar 01 2025",
+    "FullName": "Nicholas Runolfsdottir",
+    "ActionAllowed": 6,
+    "MaxActions": 8
+  },
+  {
+    "_id": "67c413f39057d608264ff1b5",
+    "Date": "Sun Mar 02 2025",
+    "FullName": "Noy Huri",
+    "ActionAllowed": 5,
+    "MaxActions": 8
+  },
+  {
+    "_id": "67c4bbd617e051c8f3417a18",
+    "Date": "Sun Mar 02 2025",
+    "FullName": "יוסף אברהם",
+    "ActionAllowed": 5,
+    "MaxActions": 7
+  },
+  {
+    "_id": "67c4bc3cbd74172f70adcf48",
+    "Date": "Sun Mar 02 2025",
+    "FullName": "Ziv Dest",
+    "ActionAllowed": 5,
+    "MaxActions": 7
+  },
+  {
+    "_id": "67c4be6719c9eb07345c0982",
+    "Date": "Sun Mar 02 2025",
+    "FullName": "Ziva Avraham",
+    "ActionAllowed": 4,
+    "MaxActions": 8
+  },
+  {
+    "_id": "67c4bf3c10fb950b75773854",
+    "Date": "Sun Mar 02 2025",
+    "FullName": "Add me",
+    "ActionAllowed": 4,
+    "MaxActions": 8
+  },
+  {
+    "_id": "67c4c4d23bf593dad493ec79",
+    "Date": "Sun Mar 02 2025",
+    "FullName": "shay Avraham",
+    "ActionAllowed": 5,
+    "MaxActions": 8
+  }
+]
