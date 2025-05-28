@@ -1,6 +1,7 @@
 # NodeJS
 
-* Packages: express, cors, mongoose, axios, jsonfile  
+
+* Packages: express, cors, mongoose, axios, jsonfile, jwtoken,   jsonwebtoken  
 * Database: MongoDB
 
 This project simulates the server side of a factory website
